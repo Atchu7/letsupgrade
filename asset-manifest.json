@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/letsupgrade/static/css/main.a617e044.chunk.css",
+    "main.js": "/letsupgrade/static/js/main.973f2b83.chunk.js",
+    "main.js.map": "/letsupgrade/static/js/main.973f2b83.chunk.js.map",
+    "runtime-main.js": "/letsupgrade/static/js/runtime-main.ee3e4b86.js",
+    "runtime-main.js.map": "/letsupgrade/static/js/runtime-main.ee3e4b86.js.map",
+    "static/js/2.b8390fa9.chunk.js": "/letsupgrade/static/js/2.b8390fa9.chunk.js",
+    "static/js/2.b8390fa9.chunk.js.map": "/letsupgrade/static/js/2.b8390fa9.chunk.js.map",
+    "static/js/3.a9ea400f.chunk.js": "/letsupgrade/static/js/3.a9ea400f.chunk.js",
+    "static/js/3.a9ea400f.chunk.js.map": "/letsupgrade/static/js/3.a9ea400f.chunk.js.map",
+    "index.html": "/letsupgrade/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/letsupgrade/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b8390fa9.chunk.js.LICENSE.txt": "/letsupgrade/static/js/2.b8390fa9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee3e4b86.js",
+    "static/js/2.b8390fa9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.973f2b83.chunk.js"
+  ]
+}
